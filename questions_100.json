@@ -1,0 +1,1002 @@
+[
+  {
+    "qid": 0,
+    "question": "What is the most common reason for the death of a child?",
+    "answer": "a disease",
+    "source_url": "https://en.wikipedia.org/wiki/Roman_Empire",
+    "source_ids": [
+      "342dcae7-9901-44ca-b679-479d5447d9da"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 1,
+    "question": "What may be the reason for the term feudal ?",
+    "answer": "It replaced beneficium .",
+    "source_url": "https://en.wikipedia.org/wiki/Feudalism",
+    "source_ids": [
+      "e330102a-1f8b-46c0-9f97-a6deba7de45a"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 2,
+    "question": "What may be the reason for the unemployment rate being inaccurate ?",
+    "answer": "The unemployment rate does not take into account the number of unemployed people .",
+    "source_url": "https://en.wikipedia.org/wiki/Unemployment",
+    "source_ids": [
+      "5efdfe26-c7b3-4bdb-9d78-553c58f8046a"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 3,
+    "question": "Which of the following is true of Wilhelm R\u00f6ntgen?",
+    "answer": "He was a German physicist.",
+    "source_url": "https://en.wikipedia.org/wiki/Surgery",
+    "source_ids": [
+      "fd12ff8b-24bb-40a2-ac38-609f967b4093"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 4,
+    "question": "What was the result of the Russian Empire's wars?",
+    "answer": "the slaughter of Russian troops and military defeats",
+    "source_url": "https://en.wikipedia.org/wiki/Russian_Revolution",
+    "source_ids": [
+      "dfb83e4f-8e15-4697-8c9f-db5420e15eab"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 5,
+    "question": "What is the name of the place where the dead are buried?",
+    "answer": "the Old Kingdom",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+    "source_ids": [
+      "269d58db-5c5a-4ab7-a87c-d5e840f5676f"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 6,
+    "question": "Which of the following is true of the variable declarations inside of main ( ) ?",
+    "answer": "They are local variables .",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_program",
+    "source_ids": [
+      "f9de0adc-58c2-445c-80db-a829055f7bc9"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 7,
+    "question": "What was the first administrator of the UNDP?",
+    "answer": "Paul G. Hoffman",
+    "source_url": "https://en.wikipedia.org/wiki/United_Nations_Development_Programme",
+    "source_ids": [
+      "00c4f4c0-133f-4cf7-a6ec-752290b2d4c6"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 8,
+    "question": "What is the likely relationship between the two factors?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_computing",
+    "source_ids": [
+      "11eb95b0-fe97-4912-a3d2-678db3edbc56"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 9,
+    "question": "What was the first objective of the British attack on Loos ?",
+    "answer": "Breslau Trench",
+    "source_url": "https://en.wikipedia.org/wiki/John_Frederick_Hepburn-Stuart-Forbes-Trefusis",
+    "source_ids": [
+      "b9b9ee33-8c3e-4539-a54a-186af4dcd59e"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 10,
+    "question": "What is the likely relationship between the two speakers?",
+    "answer": "(ii).",
+    "source_url": "https://en.wikipedia.org/wiki/Game_theory",
+    "source_ids": [
+      "519d7391-4d05-4ff3-94e0-d4bb49e791cc"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 11,
+    "question": "What may be the reason for the earthquakes?",
+    "answer": "The Earthquake was caused by a large tectonic plate .",
+    "source_url": "https://en.wikipedia.org/wiki/Earthquake",
+    "source_ids": [
+      "d3a472ab-5695-48b4-9f36-ff4c41673d73"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 12,
+    "question": "Which of the following is true of Robert McNamara?",
+    "answer": "He was appointed to the presidency in 1968",
+    "source_url": "https://en.wikipedia.org/wiki/World_Bank_Group",
+    "source_ids": [
+      "0eedb7ce-8f17-498c-a917-3b00e8331247"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 13,
+    "question": "Which of the following is true of the Renaissance?",
+    "answer": "The Renaissance was a time of freethinking.",
+    "source_url": "https://en.wikipedia.org/wiki/Renaissance",
+    "source_ids": [
+      "b10d48eb-babc-497f-b547-94913b5283a8"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 14,
+    "question": "Which of the following is not a function of rate R: a) the capacity derived earlier b) the rate of rate C c) the rate of rate R d) the rate of rate C e) the rate of rate R f) the rate of rate C  the capacity derived earlier e) the rate of rate C  the capacity derived earlier e) the rate of rate C  the capacity derived earlier f",
+    "answer": "a) the capacity derived earlier",
+    "source_url": "https://en.wikipedia.org/wiki/Additive_white_Gaussian_noise",
+    "source_ids": [
+      "fafa3919-1cba-422e-9d6b-8a56d063dd63"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 15,
+    "question": "What is the difference between oceanic crust and continental crust?",
+    "answer": "oceanic crust is formed at sea-floor spreading centers . continental crust is formed through arc volcanism and acc",
+    "source_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "source_ids": [
+      "6cb84f77-6b9d-4638-a099-bf0f62f4eece"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 16,
+    "question": "What may be the reason for their use of HDL languages ?",
+    "answer": "They want to emulate the syntax and semantics of the C programming language .",
+    "source_url": "https://en.wikipedia.org/wiki/Parallel_computing",
+    "source_ids": [
+      "44fda921-d3b9-4900-9be0-32dd568726ce"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 17,
+    "question": "Which of the following is not a type of calculus: multiplication, division, or trigonometry?",
+    "answer": "trigonometry",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_computing",
+    "source_ids": [
+      "ef86ac25-cce4-458b-9372-3d7a31758dd4"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 18,
+    "question": "What is the fourth generation of programming language called ?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_program",
+    "source_ids": [
+      "3a1c2da5-0ad7-4ad5-94fd-56725683d4b2"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 19,
+    "question": "What is the narrator likely to do next?",
+    "answer": "They are likely to look at the colouring .",
+    "source_url": "https://en.wikipedia.org/wiki/Periodic_table",
+    "source_ids": [
+      "66ec454c-079e-4adf-ad0e-918875599ab5"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 20,
+    "question": "Which country was the first to be annexed by the British?",
+    "answer": "India",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+    "source_ids": [
+      "56a17e32-0b8d-43c0-ae3c-55b53f8a79b4"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 21,
+    "question": "Which of the following is true about the Arkansas?",
+    "answer": "It is a river",
+    "source_url": "https://en.wikipedia.org/wiki/Arkansas_River",
+    "source_ids": [
+      "fbb3ab87-6ef8-4757-82a6-65d4dea68152"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 22,
+    "question": "Which of the following is true of the law ?",
+    "answer": "The law is open .",
+    "source_url": "https://en.wikipedia.org/wiki/Rule_of_law",
+    "source_ids": [
+      "30a60882-93a9-4998-b00e-4281a6dd50a2"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 23,
+    "question": "Which of the following is true of Jesus ?",
+    "answer": "Jesus is a Christian .",
+    "source_url": "https://en.wikipedia.org/wiki/Life_of_Jesus",
+    "source_ids": [
+      "1392cda3-528b-443c-9ca8-b8742a54510e"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 24,
+    "question": "What may be the reason for the vacancy?",
+    "answer": "A successor was not elected within the deadline .",
+    "source_url": "https://en.wikipedia.org/wiki/Thuringian_Constitutional_Court",
+    "source_ids": [
+      "d3706bc3-f5bc-43ce-bad4-ee3d00e29eb1"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 25,
+    "question": "Which place is the capital of the county?",
+    "answer": "Dratang",
+    "source_url": "https://en.wikipedia.org/wiki/Zhanang_County",
+    "source_ids": [
+      "a75f18b6-b980-4a58-81a0-57c9bae86259"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 26,
+    "question": "Which of the following is true of the Khalji dynasty?",
+    "answer": "The Khalji dynasty conquered much of central India.",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+    "source_ids": [
+      "e2e0663b-8d5e-4157-985d-16601ee50e9b"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 27,
+    "question": "Which team did Hickersberger play for?",
+    "answer": "Austria national football team",
+    "source_url": "https://en.wikipedia.org/wiki/Josef_Hickersberger",
+    "source_ids": [
+      "c9842948-6944-48d8-96be-e4592437d8d8"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 28,
+    "question": "Which of the following is true of the Judiciary Act of 1789 ?",
+    "answer": "The Judiciary Act of 1789 was a bill passed by Congress .",
+    "source_url": "https://en.wikipedia.org/wiki/Constitution_of_the_United_States",
+    "source_ids": [
+      "956267a8-b6f4-45ec-b18a-1856f5b0bd23"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 29,
+    "question": "Which of the following is true of the theory of tectonic plates ?",
+    "answer": "The theory of tectonic plates is based on continental drift .",
+    "source_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "source_ids": [
+      "6dbff25d-c707-4aba-90bd-1dcd37e981e0"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 30,
+    "question": "What is the main reason for the lack of integration in schools?",
+    "answer": "structural barriers",
+    "source_url": "https://en.wikipedia.org/wiki/School_segregation_in_the_United_States",
+    "source_ids": [
+      "c055d06e-a9b1-460e-a779-3cd616955b6f"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 31,
+    "question": "Which of the following is true of the author ?",
+    "answer": "They are a scientist .",
+    "source_url": "https://en.wikipedia.org/wiki/The_Selfish_Gene",
+    "source_ids": [
+      "59bf47af-cee6-4d26-aed7-f9210e22031b"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 32,
+    "question": "Which of the following is not a characteristic of a deep neural network : a synapse , a recurrent neural network , or a recurrent neural network ?",
+    "answer": "a synapse",
+    "source_url": "https://en.wikipedia.org/wiki/Deep_learning",
+    "source_ids": [
+      "e9eae3af-ad2d-4ec5-a717-e4fc33bf6613"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 33,
+    "question": "What may be the reason for the lack of solutions ?",
+    "answer": "The problem is not solved .",
+    "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "source_ids": [
+      "39376e73-8de6-434a-8f74-54f5df4d8dfd"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 34,
+    "question": "Which of the following is not a characteristic of a person :",
+    "answer": "a person who is a sex slave",
+    "source_url": "https://en.wikipedia.org/wiki/School_segregation_in_the_United_States",
+    "source_ids": [
+      "bc7a85ec-f08f-4995-8184-437a2d2df9ea"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 35,
+    "question": "Which of the following is true? (A) The system is more reliable than a single machine. (B) The system is more expensive than a single high-end computer. (C) The system is more reliable than a single high-end computer.",
+    "answer": "(A)",
+    "source_url": "https://en.wikipedia.org/wiki/Distributed_computing",
+    "source_ids": [
+      "307e866c-ff69-4bb8-ae88-dcef53f4e93b"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 36,
+    "question": "Which of the following is true of WEA Sydney ?",
+    "answer": "WEA Sydney is a non-government organisation .",
+    "source_url": "https://en.wikipedia.org/wiki/Workers%27_Educational_Association",
+    "source_ids": [
+      "fc800651-200b-4be0-b38a-82c792c911d1"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 37,
+    "question": "What is the best title of the passage?",
+    "answer": "Business",
+    "source_url": "https://en.wikipedia.org/wiki/Kemal_%C5%9Eahin",
+    "source_ids": [
+      "3636ecbf-7bff-4a6c-b4b8-bb7be526b403"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 38,
+    "question": "What is the most likely reason that the term data-base was first used ?",
+    "answer": "Because it was a common language .",
+    "source_url": "https://en.wikipedia.org/wiki/Database",
+    "source_ids": [
+      "f2d655e4-d055-4138-8ab4-ca9955bfd9a1"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 39,
+    "question": "What may be the reason for the use of FOAF files ?",
+    "answer": "They allow governments to control the content of online information .",
+    "source_url": "https://en.wikipedia.org/wiki/Semantic_Web",
+    "source_ids": [
+      "3ecd1e5c-02fe-420c-af96-7bd1543af480"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 40,
+    "question": "What is the n-person game ?",
+    "answer": "(iii)",
+    "source_url": "https://en.wikipedia.org/wiki/Game_theory",
+    "source_ids": [
+      "8d6ae676-d8a7-433e-b726-c0fc21b52c21"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 41,
+    "question": "Which of the following is true according to the passage? (A) The game is a game of chess. (B) The game is a game of chess. (C) The game is a game of chess.",
+    "answer": "(C)",
+    "source_url": "https://en.wikipedia.org/wiki/Game_theory",
+    "source_ids": [
+      "14b0c156-8588-4209-be80-7799b1afc621"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 42,
+    "question": "What is the most likely reason that Alan Turing was a philosopher ?",
+    "answer": "Alan Turing was a philosopher .",
+    "source_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "source_ids": [
+      "f8850f9b-219b-45b0-83c1-5105a2590467"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 43,
+    "question": "Which of the following is true according to the passage? (A) The computer is a computer. (B) The computer is a computer. (C) The computer is a computer.",
+    "answer": "(C)",
+    "source_url": "https://en.wikipedia.org/wiki/Distributed_computing",
+    "source_ids": [
+      "146593ee-d7f3-4212-b308-f8b89effbcb3"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 44,
+    "question": "Which of the following is true of Sam Mendes ?",
+    "answer": "He is a British film director .",
+    "source_url": "https://en.wikipedia.org/wiki/Sam_Mendes%27s_unrealised_projects",
+    "source_ids": [
+      "29588757-5be1-4811-af27-c2f6ef7b5564"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 45,
+    "question": "Which of the following is not a type of algorithm: algorithm or heuristic?",
+    "answer": "heuristic",
+    "source_url": "https://en.wikipedia.org/wiki/Algorithm",
+    "source_ids": [
+      "258101e9-4843-43b4-970d-72b3185b74e3"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 46,
+    "question": "Which of the following is true according to the passage? _ .",
+    "answer": "(iii).",
+    "source_url": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+    "source_ids": [
+      "c731ce9e-8f94-4028-81c2-571fe0e7bad9"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 47,
+    "question": "What is the main reason that Japan was responsible for attacking neutral nations without a declaration of war ?",
+    "answer": "Japan was responsible for attacking neutral nations without a declaration of war .",
+    "source_url": "https://en.wikipedia.org/wiki/World_war",
+    "source_ids": [
+      "5ba2e530-9fec-47a1-96d7-f58e7fed3437"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 48,
+    "question": "What may be the reason for the writer to change the question?",
+    "answer": "To make the question more interesting",
+    "source_url": "https://en.wikipedia.org/wiki/Behavioral_economics",
+    "source_ids": [
+      "ec01cf7d-46d2-4191-873f-7fbb42d29fa4"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 49,
+    "question": "What is the main reason for the rise in nationalists?",
+    "answer": "demand for autonomy and a separate existence",
+    "source_url": "https://en.wikipedia.org/wiki/Nationalism",
+    "source_ids": [
+      "7b398bf6-735c-4183-b093-4b245031b9e8"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 50,
+    "question": "Which of the following is true of the emblem of the Red Cross ?",
+    "answer": "The emblem is a symbol of protection .",
+    "source_url": "https://en.wikipedia.org/wiki/International_humanitarian_law",
+    "source_ids": [
+      "261262c2-561b-4082-81b7-6cc9d91f79ec"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 51,
+    "question": "Which of the following is true of the man ?",
+    "answer": "He is a Christian .",
+    "source_url": "https://en.wikipedia.org/wiki/New_Atlantis",
+    "source_ids": [
+      "05de76e2-dcf3-4b2e-a0b1-457d19df0c86"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 52,
+    "question": "What is the rule of law ?",
+    "answer": "The rule of law is a system of laws , institutions , norms , and country commitment that uphold four universal principles : Accountability : the government and its officials and agents are accountable under the law . Just Law : the law is clear , publicized , and stable , and is applied evenly . It ensures human rights as well as properly , contract , and procedural rights . Open Government : the processes enforced",
+    "source_url": "https://en.wikipedia.org/wiki/Rule_of_law",
+    "source_ids": [
+      "904eec6b-9d1e-4982-88e1-9e8fc0efc8dc"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 53,
+    "question": "What is the legal term for a contract that is not a nominate contract?",
+    "answer": "codified law",
+    "source_url": "https://en.wikipedia.org/wiki/Contract",
+    "source_ids": [
+      "4061e46f-f6c1-42a3-9e6e-c77981e39151"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 54,
+    "question": "What was the name of the group that hacked into American defense contractors , universities , and military base networks?",
+    "answer": "the Soviet KGB",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_security",
+    "source_ids": [
+      "db1ff09e-1671-4002-899b-40dd4e34d9ea"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 55,
+    "question": "What may be the reason for the term \" computer science \"?",
+    "answer": "a scientific discipline",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_science",
+    "source_ids": [
+      "6c7bcd0f-2c6c-4bf6-88bf-db8e9496bd33"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 56,
+    "question": "Which of the following is true of the team Eurasia Motorsport formerly known as:",
+    "answer": "It is a team from the Philippines",
+    "source_url": "https://en.wikipedia.org/wiki/Eurasia_Motorsport",
+    "source_ids": [
+      "6d1cc1ea-992c-4ba5-9d20-cb30fdbb7c3c"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 57,
+    "question": "What may be the reason for the graph being a weighted graph ?",
+    "answer": "The graph is a weighted graph .",
+    "source_url": "https://en.wikipedia.org/wiki/Algorithm",
+    "source_ids": [
+      "c990538f-ad56-4735-850b-0b6f93527f7c"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 58,
+    "question": "What may be the reason for their trip?",
+    "answer": "To see the Conwy Valley Railway Museum",
+    "source_url": "https://en.wikipedia.org/wiki/Betws-y-Coed_railway_station",
+    "source_ids": [
+      "b61ad5e5-f27b-4206-a5d6-e0b2bab63a55"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 59,
+    "question": "What may be the reason for the speaker to be so critical of the concept of language ?",
+    "answer": "They are concerned about the lack of a coherent language .",
+    "source_url": "https://en.wikipedia.org/wiki/Development_economics",
+    "source_ids": [
+      "4a2f66c3-2b22-45ba-962a-320e89c1e05e"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 60,
+    "question": "Which of the following is true of the circular economy ?",
+    "answer": "It is a system of reversing the cycle of production .",
+    "source_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "source_ids": [
+      "a402cf07-be04-4ef1-be47-db73726f99e0"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 61,
+    "question": "What is the term for the physical boundaries of a plate?",
+    "answer": "(d).",
+    "source_url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+    "source_ids": [
+      "09bedf28-08b9-4e8a-8633-1d420e3f1fa0"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 62,
+    "question": "m , j + n ) + B ( m , n )  Bigr     f ( i + m , j + n ) + B ( m , n )  For example , the dilation at position (",
+    "answer": "m , j + n ) + B ( m , n )  Bigr     f ( i + m , j + n ) + B ( m , n )  For example , the dilation at position (",
+    "source_url": "https://en.wikipedia.org/wiki/Digital_image_processing",
+    "source_ids": [
+      "edd00b81-0233-471f-a30d-d96cade9be60"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 63,
+    "question": "What was the name of the system that was abolished in August 1789 ?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Feudalism",
+    "source_ids": [
+      "70ecedc9-2465-49c1-ae1d-51be4784e0e1"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 64,
+    "question": "Which of the following is true of public health programs ?",
+    "answer": "They are effective .",
+    "source_url": "https://en.wikipedia.org/wiki/Public_health",
+    "source_ids": [
+      "c59f2adf-a3b2-49c6-b194-9c42464844e4"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 65,
+    "question": "What is the most common way to measure the distance between two objects?",
+    "answer": "(iv)",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+    "source_ids": [
+      "9757d6a0-c8b0-4a7f-830a-ae8ae54d2f99"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 66,
+    "question": "Which of the following is true of the sultanate ?",
+    "answer": "He was a sultan .",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_India",
+    "source_ids": [
+      "da999299-cf34-4119-8924-6c10fc7ac647"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 67,
+    "question": "Which of the following is not a characteristic of macroeconomics: output, unemployment, or inflation?",
+    "answer": "inflation",
+    "source_url": "https://en.wikipedia.org/wiki/Macroeconomics",
+    "source_ids": [
+      "42ed9392-a0af-4f43-9663-8ef26a99845a"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 68,
+    "question": "What may be the reason for the enlightenment being closely tied to the Enlightenment ?",
+    "answer": "The Scientific Revolution was a revolution in science .",
+    "source_url": "https://en.wikipedia.org/wiki/History_of_Europe",
+    "source_ids": [
+      "90ab2d58-cf15-432e-afa4-ee0e05b3aabe"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 69,
+    "question": "What may be the reason for the appointment ?",
+    "answer": "None of the above choices .",
+    "source_url": "https://en.wikipedia.org/wiki/Ye_Jianying",
+    "source_ids": [
+      "44cde101-5687-489c-9fd3-a38e8c3af06e"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 70,
+    "question": "What may be the reason for the team to win the championship ?",
+    "answer": "They won the championship .",
+    "source_url": "https://en.wikipedia.org/wiki/Eurasia_Motorsport",
+    "source_ids": [
+      "6903695a-14cf-4faa-9216-6ee79ad2dc76"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 71,
+    "question": "Which country was the first to sign the Antarctic Treaty?",
+    "answer": "Soviet Union",
+    "source_url": "https://en.wikipedia.org/wiki/Cold_War",
+    "source_ids": [
+      "d1598568-07c1-4a20-b5fb-39e6a59b7cf5"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 72,
+    "question": "What may be the reason for their view that one is saved by faith alone ?",
+    "answer": "They believe that God 's future judgement for Christians only consisted of temporal punishment and reward .",
+    "source_url": "https://en.wikipedia.org/wiki/Free_grace_theology",
+    "source_ids": [
+      "7b42d671-a61c-43e7-b4a1-270513beff1c"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 73,
+    "question": "Question: What is the best title for the passage?Options:A A book about the Karakalpak peopleB A book about the Karakalpak peopleC A book about the Karakalpak peopleD A book about the Karakalpak peopleAnswer:A",
+    "answer": "A book about the Karakalpak people",
+    "source_url": "https://en.wikipedia.org/wiki/Alvina_Shpady",
+    "source_ids": [
+      "6135fd9c-e54e-45f1-9d12-8d1218e448b0"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 74,
+    "question": "What may be the reason for the repression of protestors ?",
+    "answer": "The government did not want to interfere in the revolution .",
+    "source_url": "https://en.wikipedia.org/wiki/Russian_Revolution",
+    "source_ids": [
+      "7ae63bda-e9c4-4979-b218-dc091a2c58aa"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 75,
+    "question": "What is the likely relationship between the two authors ?",
+    "answer": "They are colleagues .",
+    "source_url": "https://en.wikipedia.org/wiki/Game_theory",
+    "source_ids": [
+      "8d6ae676-d8a7-433e-b726-c0fc21b52c21"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 76,
+    "question": "What was the first theory of diffraction for light?",
+    "answer": "wave optics",
+    "source_url": "https://en.wikipedia.org/wiki/Optics",
+    "source_ids": [
+      "bf126358-ce06-4076-bf30-8e98d8adb139"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 77,
+    "question": "What may be the reason for the passage?",
+    "answer": "To describe the passage.",
+    "source_url": "https://en.wikipedia.org/wiki/Constitution_of_India",
+    "source_ids": [
+      "884dde29-b011-4dc2-b4ce-ea3765ac6e06"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 78,
+    "question": "What may be the reason for central banks to be reluctant to follow money growth targets ?",
+    "answer": "They believe that the money stock measures that central banks can control tightly .",
+    "source_url": "https://en.wikipedia.org/wiki/Inflation",
+    "source_ids": [
+      "5e75806b-0653-4f01-8ccd-fe3c286435b7"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 79,
+    "question": "Which of the following is true of the computer ?",
+    "answer": "It has memory .",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_architecture",
+    "source_ids": [
+      "cb3f2090-ae34-4a2f-974b-f26cd567e803"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 80,
+    "question": "Which of the following is true of the circular economy?",
+    "answer": "It is a process of remaking a product or service into a new product or service.",
+    "source_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "source_ids": [
+      "b00353eb-b5e7-4398-bf2c-0ee9386918a0"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 81,
+    "question": "What is the main cause of the construction 's environmental impact ?",
+    "answer": "the generation of contaminant residues",
+    "source_url": "https://en.wikipedia.org/wiki/Circular_economy",
+    "source_ids": [
+      "c928ca34-a969-4e99-8691-4d1a97634bfc"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 82,
+    "question": "What is the simplest way to access the intranet ?",
+    "answer": "web browser",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_network",
+    "source_ids": [
+      "858adbf4-bef1-4c85-b4d2-ec0a1994e754"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 83,
+    "question": "What may be the reason for the Expedition 's fuel economy ?",
+    "answer": "Ford wanted to make the SUV more fuel-efficient .",
+    "source_url": "https://en.wikipedia.org/wiki/Ford_Expedition",
+    "source_ids": [
+      "64d3043b-82fe-4fd0-8a4f-5fd57ebaaab4"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 84,
+    "question": "What may be the reason for their rehearsing ?",
+    "answer": "They wanted to get their music out there .",
+    "source_url": "https://en.wikipedia.org/wiki/Trees_(band)",
+    "source_ids": [
+      "318d02e7-5251-474e-b974-0f58cc5f8f8a"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 85,
+    "question": "What is the most important factor that determines the success of a design ?",
+    "answer": "human usability",
+    "source_url": "https://en.wikipedia.org/wiki/Robotics",
+    "source_ids": [
+      "3774224d-55a5-4292-b2c9-f03e1d2de090"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 86,
+    "question": "What is the premise of the text?",
+    "answer": "specific performance is not absolute and does not guarantee success",
+    "source_url": "https://en.wikipedia.org/wiki/Contract",
+    "source_ids": [
+      "a85c54a1-3f98-40e5-810a-084c3e65d660"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 87,
+    "question": "Which of the following is true according to the passage? (A) The message passing interface is the most widely used message-passing system API. (B) The message passing interface is the most widely used message-passing system API. (C) The message passing interface is the most widely used message-passing system API.",
+    "answer": "(A)",
+    "source_url": "https://en.wikipedia.org/wiki/Parallel_computing",
+    "source_ids": [
+      "3c88df3b-9960-4e30-a7bb-bbd45b8b3325"
+    ],
+    "category": "multi-hop"
+  },
+  {
+    "qid": 88,
+    "question": "What is the likely outcome of the experiment?",
+    "answer": "(iii)",
+    "source_url": "https://en.wikipedia.org/wiki/Zero-shot_learning",
+    "source_ids": [
+      "c0e3a202-f213-476d-a00d-dec246572b66"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 89,
+    "question": "Which of the following is true of the rule of law?",
+    "answer": "The law is clear , consistent and open",
+    "source_url": "https://en.wikipedia.org/wiki/Rule_of_law",
+    "source_ids": [
+      "20130c9b-a54b-4c04-b5a2-57a14eae30b8"
+    ],
+    "category": "comparative"
+  },
+  {
+    "qid": 90,
+    "question": "What is the difference between a computer and a computer?",
+    "answer": "The ENIAC was a computer that was programmed to work on a computer.",
+    "source_url": "https://en.wikipedia.org/wiki/Computer_program",
+    "source_ids": [
+      "01443110-94b7-439a-ad4b-e3cebea67ede"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 91,
+    "question": "What is the narrator likely to do next?",
+    "answer": "They will look at the data .",
+    "source_url": "https://en.wikipedia.org/wiki/Sentiment_analysis",
+    "source_ids": [
+      "5211b6ee-1b51-438c-8f44-0fdae8ee420e"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 92,
+    "question": "What is the name of the first robot on the Web ?",
+    "answer": "The Lone Wanderer",
+    "source_url": "https://en.wikipedia.org/wiki/Search_engine",
+    "source_ids": [
+      "2fef56fe-e0fb-4a4f-ac72-2d7ab0ff7493"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 93,
+    "question": "What is the most common type of encryption?",
+    "answer": "cipher",
+    "source_url": "https://en.wikipedia.org/wiki/Cryptography",
+    "source_ids": [
+      "cead8a3f-d860-4443-b48f-fde880e2551b"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 94,
+    "question": "What was the aim of the program?",
+    "answer": "rebuild the democratic and economic systems of Europe",
+    "source_url": "https://en.wikipedia.org/wiki/Cold_War",
+    "source_ids": [
+      "765d4eaf-4ce5-4dc4-943c-49d760cce856"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 95,
+    "question": "What is the most likely reason that Grotius was deeply concerned with matters of conflicts between nations in the context of opposition stemming from religious differences ?",
+    "answer": "Grotius was deeply concerned with matters of conflicts between nations in the context of opposition stemming from religious differences .",
+    "source_url": "https://en.wikipedia.org/wiki/Nationalism",
+    "source_ids": [
+      "d7f26594-719b-4a18-b949-d03357e8b933"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 96,
+    "question": "What may be the reason for the sentence \" a particle 's energy , momentum , and other physical properties may yield\" ?",
+    "answer": "to describe the properties of a particle",
+    "source_url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+    "source_ids": [
+      "11a8a337-3ad5-4131-878d-15d7b8dc5e62"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 97,
+    "question": "What is the name of the newspaper that was established by John R. Rice?",
+    "answer": "The Sword of the Lord",
+    "source_url": "https://en.wikipedia.org/wiki/Free_grace_theology",
+    "source_ids": [
+      "4d2bd245-df11-466f-9ba0-72b979c42f17"
+    ],
+    "category": "factual"
+  },
+  {
+    "qid": 98,
+    "question": "What may be the reason for the challenge mentioned ?",
+    "answer": "To make the process easier .",
+    "source_url": "https://en.wikipedia.org/wiki/Digital_image_processing",
+    "source_ids": [
+      "e4d5be33-c5bc-4d21-9c92-94966ef6f1d7"
+    ],
+    "category": "inferential"
+  },
+  {
+    "qid": 99,
+    "question": "What is the most common type of fish?",
+    "answer": "(4).",
+    "source_url": "https://en.wikipedia.org/wiki/Message_in_a_bottle",
+    "source_ids": [
+      "37c477d3-2768-4e22-97ae-9ad5f4edc141"
+    ],
+    "category": "factual"
+  }
+]

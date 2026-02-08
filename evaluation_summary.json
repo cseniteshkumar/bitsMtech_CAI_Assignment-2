@@ -1,0 +1,7 @@
+{
+    "Mean Reciprocal Rank (MRR)": 0.6236666666666667,
+    "Average F1 Score": 0.09061508238996549,
+    "Recall@5 Rate": 0.7,
+    "Avg Latency (s)": 3.70063,
+    "Total Pipeline Time (min)": 6.169593195120494
+}
