@@ -327,19 +327,18 @@ Based on our evaluation with 100 questions:
 
 ## References
 
-- [FAISS Documentation](https://faiss.ai/)
-- [Sentence Transformers](https://www.sbert.net/)
-- [BM25 Algorithm](https://en.wikipedia.org/wiki/Okapi_BM25)
-- [Reciprocal Rank Fusion](https://plg.uwaterloo.ca/~gvcormac/cormacksigir09-rrf.pdf)
-- [Transformers Library](https://huggingface.co/docs/transformers)
-
-## License
+- [FAISS Documentation]## License
 
 This project is submitted as part of the Conversational AI course assignment at BITS Pilani.
 
 ## Contact
 
 For questions or issues, please contact any of the team members listed above.
+(https://faiss.ai/)
+- [Sentence Transformers](https://www.sbert.net/)
+- [BM25 Algorithm](https://en.wikipedia.org/wiki/Okapi_BM25)
+- [Reciprocal Rank Fusion](https://plg.uwaterloo.ca/~gvcormac/cormacksigir09-rrf.pdf)
+- [Transformers Library](https://huggingface.co/docs/transformers)
 
 ---
 
