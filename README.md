@@ -33,7 +33,8 @@ The system consists of the following components:
    - Sparse retrieval using BM25
 4. **Reciprocal Rank Fusion**: Combines results from both retrievers
 5. **Answer Generation**: Uses transformer-based LLM (Flan-T5)
-6. **Automated Evaluation**: Generates questions and evaluates performance
+6. **Web Interface**: Interactive Gradio-based UI for querying the system
+7. **Automated Evaluation**: Generates questions and evaluates performance
 
 ## Dependencies
 
@@ -64,6 +65,9 @@ torch>=2.0.0
 numpy>=1.24.0
 scipy>=1.10.0
 scikit-learn>=1.3.0
+
+# Web Interface
+gradio>=4.0.0
 
 # Utilities
 tqdm>=4.65.0
@@ -99,6 +103,7 @@ pip install wikipedia-api beautifulsoup4
 pip install sentence-transformers faiss-cpu
 pip install rank-bm25 nltk
 pip install transformers torch
+pip install gradio
 pip install tqdm numpy scipy scikit-learn
 ```
 
@@ -251,24 +256,91 @@ bitsMtech_CAI_Assignment-2/
 └── Output SS/                                      # Output screenshots
 ```
 
-## Fixed Wikipedia URLs (200 URLs)
+## Gradio
+### Installation
 
-Below is the complete list of 200 fixed Wikipedia URLs used in this project:
+Install Gradio if not already installed:
+
+```bash
+pip install gradio
+```
+
+### Launching the Interface
+
+#### Step 1: Run the Notebook
+
+Execute all the cells in the notebook up to and including the Gradio interface cell. The complete workflow includes:
+
+1. Install dependencies
+2. Import libraries
+3. Configure corpus parameters
+4. Build corpus and indexes
+5. Run the Gradio cell (final cells in the notebook)
+
+#### Step 2: Launch Options
+
+The Gradio interface supports two modes:
+
+**Local Mode** (default):
+```python
+demo.launch()
+```
+- Access at: `http://127.0.0.1:7860`
+- Available only on your local machine
+
+### Using the Interface
+
+1. **Enter Your Query**: Type your question in the text input field
+   - Examples: "What is machine learning?", "Explain quantum computing", "What are neural networks?"
+
+2. **Submit**: Click the "Submit" button or press Enter
+
+3. **View Results**: The interface displays:
+   - **Answer**: Generated response based on retrieved context
+   - **Response Time**: Processing duration in seconds
+   - **Retrieved Chunks Table**: Shows top-N chunks ranked by RRF score
+     - Rank
+     - Article Title
+     - Dense Score (semantic similarity)
+     - Sparse Score (BM25 keyword matching)
+     - RRF Score (combined ranking)
+     - Source URL
+
+### Interface Features
+
+- **Modern UI**: Clean, professional design with teal and slate color scheme
+- **Responsive Layout**: Adapts to different screen sizes
+- **Real-time Processing**: Instant query processing and response
+- **Source Attribution**: Direct Wikipedia URLs for verification
+- **Score Transparency**: Shows how chunks were ranked
+
+### Example Queries
+
+Try these sample questions:
+
+```
+What is deep learning?
+How does machine translation work?
+Explain artificial intelligence
+What are the applications of natural language processing?
+Describe quantum computing principles
+```
 
 ## Usage Example
 
-### Query the System
+### Query the System (Programmatic)
 
-Once the system is set up and running, you can query it:
+You can also query the system programmatically without the UI:
 
 ```python
 query = "What is machine learning?"
-result = hybrid_rag_system.answer_query(query)
+result = rag_system.answer(query)
 
 print("Answer:", result['answer'])
-print("Top Sources:")
-for chunk in result['retrieved_chunks']:
-    print(f"- {chunk['source']} (Score: {chunk['rrf_score']:.4f})")
+print("Response Time:", result['time'], "seconds")
+print("\nTop Retrieved Chunks:")
+for i, chunk in enumerate(result['contexts'], 1):
+    print(f"{i}. {chunk['meta']['title']} (RRF Score: {chunk['rrf_score']:.4f})")
 ```
 
 ### Sample Output
@@ -279,10 +351,14 @@ computer systems to learn and improve from experience without being explicitly
 programmed. It focuses on the development of algorithms that can access data 
 and use it to learn for themselves.
 
-Top Sources:
-- Machine Learning (Wikipedia) (Score: 0.9234)
-- Artificial Intelligence (Wikipedia) (Score: 0.8567)
-- Deep Learning (Wikipedia) (Score: 0.7892)
+Response Time: 1.85 seconds
+
+Top Retrieved Chunks:
+1. Machine learning (RRF Score: 0.9234)
+2. Artificial intelligence (RRF Score: 0.8567)
+3. Deep learning (RRF Score: 0.7892)
+4. Neural network (RRF Score: 0.7456)
+5. Supervised learning (RRF Score: 0.7123)
 ```
 
 ## Troubleshooting
@@ -321,9 +397,10 @@ Based on our evaluation with 100 questions:
 - Implement caching for faster repeated queries
 - Add support for multi-modal retrieval
 - Optimize chunk size and overlap parameters
-- Integrate more advanced LLMs (GPT-4, Claude, etc.)
-- Add real-time query interface (Streamlit/Gradio)
-- Implement query expansion and reranking
+- Integrate more advanced LLMs (GPT-4, Claude, Gemini, etc.)
+- Add query expansion and reranking mechanisms
+- Implement conversation history and context tracking
+- Add support for document upload and custom corpus
 
 ## References
 
